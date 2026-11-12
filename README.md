@@ -1,8 +1,8 @@
 # Time Series Exercise 4: Compute ACF for the First 35 Lags
 
-## Name: Aravindan T
+## Name: Anwarsha E.M
 
-## Roll No: 2305001003
+## Roll No: 2305001002
 
 ## Department: CSE
 
